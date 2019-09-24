@@ -11,5 +11,6 @@ $ pip install json
 $ pip install os
 $ pip install time
 $ pip install cssselect
+$ python scraping_wear.py
 ```
  
