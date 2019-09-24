@@ -5,7 +5,7 @@ WEARのコメント・画像をスクレイピングし、jsonファイルに出
 ## インストール
  
 ```
-$ git clone https://github.com/TomoakiTANAKA/awesome-tool
+$ git clone https://github.com/runandy16/WEAR.git
 $ pip install tqdm
 $ pip install json
 $ pip install os
