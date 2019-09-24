@@ -1,6 +1,6 @@
 # 概要
 
-WEARのレディースユーザーランキング（https://wear.jp/women-ranking/user/）上位100のコメント・画像をスクレイピングし、jsonファイルに出力
+WEARのレディースユーザーランキング（ https://wear.jp/women-ranking/user/ ）上位100のコメント・画像をスクレイピングし、jsonファイルに出力
 
 ## インストール
  
